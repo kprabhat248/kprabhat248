@@ -51,36 +51,6 @@ He/Him
 - I enjoy volunteering at various college events and community service programs.
 
 ---
-
-## 🏫 Education
-
-- **B.Tech in Information Technology**
-  - **Institute:** Indian Institute of Information Technology, Una
-  - **CGPA:** 7.81 (Current)
-  - **Year:** 2021-Present
-
-- **Senior Secondary Education**
-  - **Board:** CBSE
-  - **Percentage:** 94.2%
-  - **Year:** 2020
-
-- **Secondary Education**
-  - **Board:** CBSE
-  - **Percentage:** 96.4%
-  - **Year:** 2018
-
----
-
-## 💼 Experience
-
-### Flutter Developer (Part-time) at A2D, Rajasthan
-**Duration:** December 2023 - April 2024
-- Developed a cross-platform EATS App for restaurant orders and delivery.
-- Enhanced user experience by implementing dynamic themes and optimized API performance using HTTPX.
-- Redesigned permission screens and utilized Deeplink for cross-app communication.
-
----
-
 ## 💡 Projects
 
 ### Blog Management System
