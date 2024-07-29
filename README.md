@@ -82,13 +82,7 @@ He/Him
 
 ---
 
-## 🎨 Positions of Responsibility
 
-### Design Team, IIIT Una PicXcel Club
-**Role:** Member
-**Duration:** July 2023 - Current
-
----
 
 ## 🛠 Skills
 
@@ -125,18 +119,6 @@ He/Him
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
 
-### Soft Skills
-- Leadership
-- Writing
-- Time Management
 
----
 
-## 🌱 Extra-Curricular Activities
 
-- **Badminton:** Active participant in college badminton tournaments.
-- **Volunteering:** Volunteered at various college events and community service programs.
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=kprabhat248&color=blue)
