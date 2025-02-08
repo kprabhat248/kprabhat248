@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 I'm Prabhat Kumar, a passionate and dedicated B.Tech student specializing in Information Technology at the Indian Institute of Information Technology, Una. My interests lie in developing robust and efficient software solutions, particularly using frameworks like Flutter and FastAPI.
 
-### 🔭 I’m currently working on
-- Developing a cross-platform EATS App for restaurant orders and delivery.
-- Optimizing API performance and enhancing user experience for various applications.
 
 ### 🌱 I’m currently learning
 - Advanced system design and cloud computing.
@@ -41,7 +38,7 @@ I'm Prabhat Kumar, a passionate and dedicated B.Tech student specializing in Inf
 ### 📫 How to reach me
 - **Email:** [kprabhat248@gmail.com](mailto:kprabhat248@gmail.com)
 - **GitHub:** [kprabhat248](https://github.com/kprabhat248)
-- **LinkedIn:** [Prabhat Kumar](https://www.linkedin.com/in/prabhat-kumar-76a35a281)
+
 
 ### 😄 Pronouns
 He/Him
