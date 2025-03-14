@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+my+GitHub+Profile!)
+```![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+my+GitHub+Profile!)```
 
 I'm Prabhat Kumar, a passionate and dedicated B.Tech student specializing in Information Technology at the Indian Institute of Information Technology, Una. My interests lie in developing robust and efficient software solutions, particularly using frameworks like Flutter and FastAPI.
 
