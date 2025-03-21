@@ -45,8 +45,8 @@ I'm Prabhat Kumar, a passionate and dedicated B.Tech student specializing in Inf
 He/Him
 
 ### ⚡ Fun fact
-- I love playing badminton and have participated in several college tournaments.
-- I enjoy volunteering at various college events and community service programs.
+- I love Orion .
+- I shine and shine and shine.
 
 ---
 ## 💡 Projects
